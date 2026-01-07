@@ -21,9 +21,8 @@ training platforms, and industry experience in **Business Analytics and Data Ana
   - Dashboard Development
 
 📄 Files:
-- `internships/inlighnx-global/internship-certificate.png`
-- `internships/inlighnx-global/experience-letter.pdf`
-
+- `internships/inlighnx-global/Experience%20_letter.png`
+- `internships/inlighnx-global/Internship_Certificate.png`
 ---
 
 ### Coreline Solutions Inc.
@@ -37,7 +36,7 @@ training platforms, and industry experience in **Business Analytics and Data Ana
   - Business Intelligence Reporting
 
 📄 File:
-- `internships/coreline-solutions/internship-certificate.png`
+- `internships/coreline-solutions/intership%20certificate.jpeg`
 
 ---
 
@@ -46,7 +45,7 @@ The following certifications include **official LinkedIn Learning verification l
 
 ### Microsoft SQL Server 2022 Essential Training
 - **Skills:** SQL Server, Database Fundamentals  
-- 📄 `linkedin-learning/microsoft-sql-server-2022.png`  
+- 📄 `linkedin-learning/CertificateOfCompletion_Microsoft%20SQL%20Server%202022%20Essential%20Trainings.pdf`  
 - 🔗 Verification:  
   https://www.linkedin.com/learning/certificates/8c3f09bb6d8639834c03a2463f38244063fb0f0f5e3c427b4ca2b66a6342fa04
 
@@ -54,7 +53,7 @@ The following certifications include **official LinkedIn Learning verification l
 
 ### Agile Foundations
 - **Skills:** Agile Methodology, Project Management  
-- 📄 `linkedin-learning/agile-foundations.png`  
+- 📄 `linkedin-learning/CertificateOfCompletion_Agile%20Foundation.pdf`  
 - 🔗 Verification:  
   https://www.linkedin.com/learning/certificates/3ed28ff1928680deef9b9f9a2b9638961879f25f042833d46bf454043dae4b47
 
@@ -62,7 +61,7 @@ The following certifications include **official LinkedIn Learning verification l
 
 ### Scrum: The Basics
 - **Skills:** Scrum Framework, Agile Practices  
-- 📄 `linkedin-learning/scrum-basics.png`  
+- 📄 `linkedin-learning/CertificateOfCompletion_Scrum%20The%20Basic.pdf`  
 - 🔗 Verification:  
   https://www.linkedin.com/learning/certificates/c8080d3e3309961f2bf12ca07918349d0ba4f090a7ed833cfadaeb54389ca1e1
 
@@ -88,7 +87,7 @@ The following certifications include **official LinkedIn Learning verification l
   - Hands-on project exposure
   - Analytical thinking  
 
-📄 `professional-training/simplilearn-data-analytics-projects.pdf`
+📄 `professional-training-and-skill-development/simplilearn-data-analytics-projects.pdf`
 
 ---
 
@@ -100,7 +99,7 @@ The following certifications include **official LinkedIn Learning verification l
   - DAX basics
   - Interactive dashboard development  
 
-📄 `professional-training/jobaaj-powerbi-beginner-advanced.png`
+📄 `professional-training-and-skill-development/jobaaj-powerbi-beginner-to-advanced.png`
 
 ---
 
