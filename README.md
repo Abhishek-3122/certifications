@@ -67,6 +67,14 @@ The following certifications include **official LinkedIn Learning verification l
 
 ---
 
+### SAP SuccessFactors Performance and Goals Management  
+**Skills:** SAP SuccessFactors, Performance Management, Goals Management  
+-📄 linkedin-learning/CertificateOfCompletion_SAP_SuccessFactors_Performance_and_Goals_Management.pdf  
+-🔗 Verification:  
+https://www.linkedin.com/learning/certificates/78db650c07615b698663aa8d11e00a94ec58cb0da28a79d51094adc2e5a15011
+
+---
+
 ## Coursera Certifications
 
 ### Introduction to Data Analysis using Microsoft Excel
