@@ -67,13 +67,42 @@ The following certifications include **official LinkedIn Learning verification l
 
 ---
 
-### SAP SuccessFactors Performance and Goals Management  
-**Skills:** SAP SuccessFactors, Performance Management, Goals Management  
--📄 linkedin-learning/CertificateOfCompletion_SAP_SuccessFactors_Performance_and_Goals_Management.pdf  
--🔗 Verification:  
-https://www.linkedin.com/learning/certificates/78db650c07615b698663aa8d11e00a94ec58cb0da28a79d51094adc2e5a15011
+### Agile Project Management with Jira Cloud: 1 Projects, Boards, and Issues
+
+- Skills: Jira, Agile Project Management
+- 📄 [View Certificate](linkedin-learning/Agile_Project_Management_with_Jira_Cloud_1.pdf)
+- 🔗 Verification:
+https://www.linkedin.com/learning/certificates/99bbba237ef82f615bca43ff7615a1df74b77b7dd33eaeef8e86a688a0c04849
 
 ---
+
+### Agile Project Management with Jira Cloud: 2 Lean and Agile Processes
+
+- Skills: Jira, Agile Project Management
+- 📄 [View Certificate](linkedin-learning/Agile_Project_Management_with_Jira_Cloud_2.pdf)
+- 🔗 Verification:
+https://www.linkedin.com/learning/certificates/dba59a2ba7bf0d2643718c433b1dbea77eab276cad4b6a631ac2dd73260467fb
+
+---
+
+### Agile Project Management with Jira Cloud: 3 Advanced Topics
+
+- Skills: Jira, Agile Project Management
+- 📄 [View Certificate](linkedin-learning/Agile_Project_Management_with_Jira_Cloud_3.pdf)
+- 🔗 Verification:
+https://www.linkedin.com/learning/certificates/ba0b479b5b938732fc5db7f5ffab1a145d8ae0be36920b4c555edf9496fadfae
+
+---
+
+### Mistakes to Avoid in Agile Project Management
+
+- Skills: Agile Project Management
+- 📄 [View Certificate](linkedin-learning/Mistakes_to_Avoid_in_Agile_Project_Management.pdf)
+- 🔗 Verification:
+https://www.linkedin.com/learning/certificates/c131d8142841aa47f41deebc91ec0f9ef3fdcfcb1c9ed5dee1ab194ef4d8ad22
+
+---
+
 
 ### Atlassian Agile Project Management Professional Certificate
 
@@ -81,6 +110,14 @@ https://www.linkedin.com/learning/certificates/78db650c07615b698663aa8d11e00a94e
 - 📄 linkedin-learning/CertificateOfCompletion_Atlassian_Agile_Project_Management_Professional_Certificate.pdf
 - 🔗 Verification:
 https://www.linkedin.com/learning/certificates/5fcad71d5f80131de8f80f96aca79106d1492366882cb839990ec7137dbcda0f
+
+---
+
+### SAP SuccessFactors Performance and Goals Management  
+**Skills:** SAP SuccessFactors, Performance Management, Goals Management  
+-📄 linkedin-learning/CertificateOfCompletion_SAP_SuccessFactors_Performance_and_Goals_Management.pdf  
+-🔗 Verification:  
+https://www.linkedin.com/learning/certificates/78db650c07615b698663aa8d11e00a94ec58cb0da28a79d51094adc2e5a15011
 
 ---
 
