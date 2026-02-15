@@ -70,7 +70,7 @@ The following certifications include **official LinkedIn Learning verification l
 ### Agile Project Management with Jira Cloud: 1 Projects, Boards, and Issues
 
 - Skills: Jira, Agile Project Management
-- 📄 [View Certificate](linkedin-learning/Agile_Project_Management_with_Jira_Cloud_1.pdf)
+- 📄 linkedin-learning/Agile_Project_Management_with_Jira_Cloud_1.pdf
 - 🔗 Verification:
 https://www.linkedin.com/learning/certificates/99bbba237ef82f615bca43ff7615a1df74b77b7dd33eaeef8e86a688a0c04849
 
@@ -79,7 +79,7 @@ https://www.linkedin.com/learning/certificates/99bbba237ef82f615bca43ff7615a1df7
 ### Agile Project Management with Jira Cloud: 2 Lean and Agile Processes
 
 - Skills: Jira, Agile Project Management
-- 📄 [View Certificate](linkedin-learning/Agile_Project_Management_with_Jira_Cloud_2.pdf)
+- 📄 linkedin-learning/Agile_Project_Management_with_Jira_Cloud_2.pdf
 - 🔗 Verification:
 https://www.linkedin.com/learning/certificates/dba59a2ba7bf0d2643718c433b1dbea77eab276cad4b6a631ac2dd73260467fb
 
@@ -88,7 +88,7 @@ https://www.linkedin.com/learning/certificates/dba59a2ba7bf0d2643718c433b1dbea77
 ### Agile Project Management with Jira Cloud: 3 Advanced Topics
 
 - Skills: Jira, Agile Project Management
-- 📄 [View Certificate](linkedin-learning/Agile_Project_Management_with_Jira_Cloud_3.pdf)
+- 📄 linkedin-learning/Agile_Project_Management_with_Jira_Cloud_3.pdf
 - 🔗 Verification:
 https://www.linkedin.com/learning/certificates/ba0b479b5b938732fc5db7f5ffab1a145d8ae0be36920b4c555edf9496fadfae
 
@@ -97,7 +97,7 @@ https://www.linkedin.com/learning/certificates/ba0b479b5b938732fc5db7f5ffab1a145
 ### Mistakes to Avoid in Agile Project Management
 
 - Skills: Agile Project Management
-- 📄 [View Certificate](linkedin-learning/Mistakes_to_Avoid_in_Agile_Project_Management.pdf)
+- 📄 linkedin-learning/Mistakes_to_Avoid_in_Agile_Project_Management.pdf
 - 🔗 Verification:
 https://www.linkedin.com/learning/certificates/c131d8142841aa47f41deebc91ec0f9ef3fdcfcb1c9ed5dee1ab194ef4d8ad22
 
