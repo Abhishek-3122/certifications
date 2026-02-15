@@ -75,6 +75,15 @@ https://www.linkedin.com/learning/certificates/78db650c07615b698663aa8d11e00a94e
 
 ---
 
+### Atlassian Agile Project Management Professional Certificate
+
+- Skills: Jira, Agile Methodologies, Agile Project Management
+- 📄 linkedin-learning/CertificateOfCompletion_Atlassian_Agile_Project_Management_Professional_Certificate.pdf
+- 🔗 Verification:
+https://www.linkedin.com/learning/certificates/5fcad71d5f80131de8f80f96aca79106d1492366882cb839990ec7137dbcda0f
+
+---
+
 ## Coursera Certifications
 
 ### Introduction to Data Analysis using Microsoft Excel
